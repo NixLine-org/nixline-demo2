@@ -1,14 +1,14 @@
-# CODEOWNERS - Generated from nixline-baseline
-# Organization: NixLine-org
-# Default Team: @NixLine-org/maintainers
+# CODEOWNERS - Generated from lineage-baseline
+# Organization: Lineage-org
+# Default Team: @Lineage-org/maintainers
 #
 # This file is auto-generated. To customize:
-# 1. Add a .nixline.toml file to your repository root
+# 1. Add a .lineage.toml file to your repository root
 # 2. Define [packs.codeowners] section with custom rules
-# 3. Run: nix run github:NixLine-org/nixline-baseline#sync
+# 3. Run: nix run github:Lineage-org/lineage-baseline#sync
 
 # Default owners
-* @NixLine-org/maintainers
+* @Lineage-org/maintainers
 
 # Python code
 *.py @jasonodoom
@@ -17,10 +17,10 @@
 *.{js,jsx,ts,tsx} @jasonodoom
 
 # JVM languages
-*.{java,kt,scala} @NixLine-org/maintainers
+*.{java,kt,scala} @Lineage-org/maintainers
 
 # Rust code
-*.rs @NixLine-org/maintainers
+*.rs @Lineage-org/maintainers
 
 # Documentation
 docs/** @jasonodoom
